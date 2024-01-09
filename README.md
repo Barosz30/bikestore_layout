@@ -1,2 +1,3 @@
-# bikestore_layout
-Layout page done by me
+# BikeStore landing page
+
+I created this layout using HTML, SCSS and BEM methodology. Enjoy
